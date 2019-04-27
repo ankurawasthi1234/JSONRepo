@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-      "name" : "ANKUR"
+      "title": "hello",
+      "name": "ANKUR"
     }
   ],
   "profile": {
